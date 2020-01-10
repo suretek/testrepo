@@ -1,2 +1,2 @@
-Hi this is the test commit to the specified folder clone
+Hi this is the first commit to the specified folder clone
  
